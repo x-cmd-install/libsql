@@ -1,22 +1,24 @@
 about:
-  description: libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+  description:
+  |
+    libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
   license: MIT
   homepage: https://turso.tech/libsql
   head: d6c75af
   archived: false
   latestVersion: libsql-server-v0.24.32
-  collectedAt: 2026-09-04T05:03:29Z
+  collectedAt: 2026-09-04T19:58:56Z
 timeline:
   created: 2022-09-29
   lastCommit: 2026-08-23
   lastRelease: 2025-02-14
 popularity:
-  star: 17187
+  star: 17189
   watcher: 88
-  fork: 527
+  fork: 528
   release: 55
   contributor: 107
-  pullRequest: 235
+  pullRequest: 1571
   issue: 634
 language:
   C: 49375773
@@ -41,10 +43,18 @@ language:
   Dockerfile: 3517
   RenderScript: 640
   Linker Script: 392
-totalLine: 57537139
+totalBytes: 57537139
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -75,3 +85,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 9
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 55
+  mergedPR: 1336
+  openPR: 46
+  closedIssue: 229
+  openIssue: 405
+  commit: 33686
+---
+---
+
