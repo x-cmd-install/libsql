@@ -5,13 +5,13 @@ about:
   head: d6c75af
   archived: false
   latestVersion: "libsql-server-v0.24.32"
-  collectedAt: 2026-09-08T02:05:39Z
+  collectedAt: 2026-09-08T04:45:51Z
 timeline:
   created: 2022-09-29
   lastCommit: 2026-08-23
   lastRelease: 2025-02-14
 popularity:
-  star: 17207
+  star: 17208
   watcher: 89
   fork: 530
   release: 55
@@ -100,7 +100,7 @@ total:
   commit: 33686
 ---
 path: /home/runner/.x-repo/github.com/libsql/libsql
-collectedAt: 2026-09-08T02:06:45Z
+collectedAt: 2026-09-08T04:46:52Z
 loc:
   C:
     code: 760278
