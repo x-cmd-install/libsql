@@ -12,6 +12,18 @@ libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 x install libsql
 ```
 
+## Code insight
+
+Total: **1,003,922** lines of code across **1169** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 760,278 | 251,533 | 67,792 | 524 |
+| Rust | 98,938 | 3,289 | 11,972 | 388 |
+| CHeader | 25,714 | 48,633 | 4,737 | 148 |
+| Autoconf | 24,064 | 1,883 | 1,336 | 14 |
+| Tcl | 22,915 | 4,039 | 2,529 | 95 |
+
 ## Source
 
 - **Upstream**: <https://github.com/libsql/libsql>
@@ -23,6 +35,25 @@ x install libsql
 - **Latest**: `libsql-server-v0.24.32` (2025-02-14)
 - **Last commit**: 2026-08-23
 - **Assets in release**: 13
+
+## Popularity
+
+- **Stars**: 17,209 · **Forks**: 530 · **Open issues**: 634 · **Contributors**: 107
+
+## Totals (cumulative)
+
+- **Releases**: 55 · **Merged PRs**: 1336 · **Open PRs**: 48 · **Closed issues**: 229 · **Open issues**: 405 · **Commits**: 33686
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 7 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -42,33 +73,13 @@ x install libsql
 | [source.tar.gz.sha256](https://github.com/libsql/libsql/releases/download/libsql-server-v0.24.32/source.tar.gz.sha256) | 80 B | `other` |
 | [sqld.rb](https://github.com/libsql/libsql/releases/download/libsql-server-v0.24.32/sqld.rb) | 2.3 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 17,209 · **Forks**: 531 · **Open issues**: 634 · **Contributors**: 107
+Reported by **6** distros on [repology.org](https://repology.org/project/libsql). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 55 · **Merged PRs**: 1336 · **Open PRs**: 48 · **Closed issues**: 229 · **Open issues**: 405 · **Commits**: 33686
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **1,003,922** lines of code across **1169** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 760,278 | 251,533 | 67,792 | 524 |
-| Rust | 98,938 | 3,289 | 11,972 | 388 |
-| CHeader | 25,714 | 48,633 | 4,737 | 148 |
-| Autoconf | 24,064 | 1,883 | 1,336 | 14 |
-| Tcl | 22,915 | 4,039 | 2,529 | 95 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.24.32` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +90,4 @@ Install metadata for libsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:32:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:01:34Z._
