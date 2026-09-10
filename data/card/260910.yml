@@ -7,7 +7,7 @@ about:
   latestVersion: "libsql-server-v0.24.32"
   latestRelease: "libsql-server-v0.24.32"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:41:10Z
+  collectedAt: 2026-09-10T16:30:54Z
 timeline:
   created: 2022-09-29
   lastCommit: 2026-08-23
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2025-02-14
   lastPrerelease: 
 popularity:
-  star: 17208
+  star: 17209
   watcher: 89
-  fork: 530
+  fork: 531
   release: 55
   contributor: 107
-  pullRequest: 1573
+  pullRequest: 1574
   issue: 634
 language:
   C: 49375773
@@ -98,13 +98,13 @@ recent:
 total:
   release: 55
   mergedPR: 1336
-  openPR: 47
+  openPR: 48
   closedIssue: 229
   openIssue: 405
   commit: 33686
 ---
 path: /home/runner/.x-repo/github.com/libsql/libsql
-collectedAt: 2026-09-10T04:42:12Z
+collectedAt: 2026-09-10T16:32:12Z
 loc:
   C:
     code: 760278
