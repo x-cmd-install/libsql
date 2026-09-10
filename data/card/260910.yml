@@ -7,7 +7,7 @@ about:
   latestVersion: "libsql-server-v0.24.32"
   latestRelease: "libsql-server-v0.24.32"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:00:14Z
+  collectedAt: 2026-09-10T22:50:41Z
 timeline:
   created: 2022-09-29
   lastCommit: 2026-08-23
@@ -104,7 +104,7 @@ total:
   commit: 33686
 ---
 path: /home/runner/.x-repo/github.com/libsql/libsql
-collectedAt: 2026-09-10T21:01:19Z
+collectedAt: 2026-09-10T22:51:40Z
 loc:
   C:
     code: 760278
