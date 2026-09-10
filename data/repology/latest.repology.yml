@@ -1,0 +1,63 @@
+- repo: aur
+  srcname: libsql
+  binname: libsql
+  visiblename: libsql
+  version: 0.24.32
+  origversion: 0.24.32-2
+  status: newest
+  summary: Fork of SQLite that is both Open Source, and Open Contributions
+  maintainers:
+    - envolution@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: libsql-server-bin
+  binname: libsql-server-bin
+  visiblename: libsql-server-bin
+  version: 0.24.32
+  origversion: 0.24.32-1
+  status: newest
+  summary: libSQL is a fork of SQLite for modern applications
+  maintainers:
+    - tee@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: libsql
+  visiblename: libsql
+  version: 0.24.32
+  origversion: null
+  status: newest
+  summary: Fork of SQLite that is both Open Source, and Open Contributions
+- repo: homebrew
+  srcname: libsql
+  visiblename: libsql
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fork of SQLite that is both Open Source, and Open Contributions
+- repo: macports
+  srcname: databases/libsql
+  binname: libsql
+  visiblename: libsql
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Fork of SQLite that is both Open Source, and Open Contributions.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - databases
+- repo: openpkg_current
+  srcname: libsql
+  visiblename: libsql
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: Lightweight Embedded SQL Database
+  licenses:
+    - MIT
+  categories:
+    - Database
