@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9324600,
       "digest": null,
-      "download_count": 22693,
+      "download_count": 22736,
       "created_at": "2025-02-14T12:59:33Z",
       "updated_at": "2025-02-14T12:59:33Z",
       "browser_download_url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": null,
-      "download_count": 1622,
+      "download_count": 1648,
       "created_at": "2025-02-14T12:59:33Z",
       "updated_at": "2025-02-14T12:59:33Z",
       "browser_download_url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-aarch64-apple-darwin.tar.xz.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10313860,
       "digest": null,
-      "download_count": 9584,
+      "download_count": 9589,
       "created_at": "2025-02-14T12:59:33Z",
       "updated_at": "2025-02-14T12:59:34Z",
       "browser_download_url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-aarch64-unknown-linux-gnu.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": null,
-      "download_count": 163,
+      "download_count": 164,
       "created_at": "2025-02-14T12:59:33Z",
       "updated_at": "2025-02-14T12:59:33Z",
       "browser_download_url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 34514,
       "digest": null,
-      "download_count": 5334,
+      "download_count": 5335,
       "created_at": "2025-02-14T12:59:33Z",
       "updated_at": "2025-02-14T12:59:33Z",
       "browser_download_url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-installer.sh"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10544688,
       "digest": null,
-      "download_count": 2286,
+      "download_count": 2287,
       "created_at": "2025-02-14T12:59:33Z",
       "updated_at": "2025-02-14T12:59:34Z",
       "browser_download_url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-x86_64-apple-darwin.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10990112,
       "digest": null,
-      "download_count": 192826,
+      "download_count": 193220,
       "created_at": "2025-02-14T12:59:34Z",
       "updated_at": "2025-02-14T12:59:34Z",
       "browser_download_url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-x86_64-unknown-linux-gnu.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": null,
-      "download_count": 5293,
+      "download_count": 5323,
       "created_at": "2025-02-14T12:59:34Z",
       "updated_at": "2025-02-14T12:59:34Z",
       "browser_download_url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/libsql-server-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 29633672,
       "digest": null,
-      "download_count": 387,
+      "download_count": 388,
       "created_at": "2025-02-14T12:59:34Z",
       "updated_at": "2025-02-14T12:59:35Z",
       "browser_download_url": "https://github.com/tursodatabase/libsql/releases/download/libsql-server-v0.24.32/source.tar.gz"
