@@ -38,7 +38,7 @@ Total: **1,003,922** lines of code across **1169** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 17,216 · **Forks**: 530 · **Open issues**: 634 · **Contributors**: 107
+- **Stars**: 17,217 · **Forks**: 530 · **Open issues**: 634 · **Contributors**: 107
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,003,922** lines of code across **1169** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 7 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -73,14 +73,6 @@ Total: **1,003,922** lines of code across **1169** files in the top 5 languages.
 | [source.tar.gz.sha256](https://github.com/libsql/libsql/releases/download/libsql-server-v0.24.32/source.tar.gz.sha256) | 80 B | `other` |
 | [sqld.rb](https://github.com/libsql/libsql/releases/download/libsql-server-v0.24.32/sqld.rb) | 2.3 KiB | `other` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/libsql). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.24.32` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for libsql lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `libsql` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +82,4 @@ Install metadata for libsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:53:53Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:57:32Z._
