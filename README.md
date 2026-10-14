@@ -14,12 +14,12 @@ x install libsql
 
 ## Code insight
 
-Total: **1,003,922** lines of code across **1169** files in the top 5 languages.
+Total: **1,003,925** lines of code across **1169** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 760,278 | 251,533 | 67,792 | 524 |
-| Rust | 98,938 | 3,289 | 11,972 | 388 |
+| Rust | 98,941 | 3,289 | 11,972 | 388 |
 | CHeader | 25,714 | 48,633 | 4,737 | 148 |
 | Autoconf | 24,064 | 1,883 | 1,336 | 14 |
 | Tcl | 22,915 | 4,039 | 2,529 | 95 |
@@ -33,27 +33,27 @@ Total: **1,003,922** lines of code across **1169** files in the top 5 languages.
 ## Release
 
 - **Latest**: `libsql-server-v0.24.32` (2025-02-14)
-- **Last commit**: 2026-08-23
+- **Last commit**: 2026-10-13
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 17,267 · **Forks**: 543 · **Open issues**: 639 · **Contributors**: 107
+- **Stars**: 17,269 · **Forks**: 544 · **Open issues**: 640 · **Contributors**: 109
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 1336 · **Open PRs**: 51 · **Closed issues**: 229 · **Open issues**: 410 · **Commits**: 33686
+- **Releases**: 55 · **Merged PRs**: 1337 · **Open PRs**: 50 · **Closed issues**: 230 · **Open issues**: 410 · **Commits**: 33689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-23 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-24 | 5 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for libsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:53:32Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:00:43Z._
