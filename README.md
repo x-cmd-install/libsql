@@ -38,22 +38,22 @@ Total: **1,003,925** lines of code across **1169** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 17,306 · **Forks**: 554 · **Open issues**: 646 · **Contributors**: 109
+- **Stars**: 17,308 · **Forks**: 554 · **Open issues**: 646 · **Contributors**: 109
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 1337 · **Open PRs**: 61 · **Closed issues**: 230 · **Open issues**: 416 · **Commits**: 33689
+- **Releases**: 55 · **Merged PRs**: 1337 · **Open PRs**: 61 · **Closed issues**: 231 · **Open issues**: 415 · **Commits**: 33689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-11 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-12 | 4 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for libsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:59:25Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:06:52Z._
