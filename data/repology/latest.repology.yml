@@ -50,14 +50,3 @@
     - MIT
   categories:
     - databases
-- repo: openpkg_current
-  srcname: libsql
-  visiblename: libsql
-  version: 0.2.1
-  origversion: null
-  status: outdated
-  summary: Lightweight Embedded SQL Database
-  licenses:
-    - MIT
-  categories:
-    - Database
